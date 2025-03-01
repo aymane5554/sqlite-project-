@@ -2,7 +2,7 @@
 
 By Aymen elrrouji
 
-Video overview: <URL  https://youtu.be/uIOw6W0JDHA>
+Video overview: https://youtu.be/uIOw6W0JDHA
 
 ## Scope
 
